@@ -33,7 +33,9 @@ Architect, Project Manager, and Tech Builder focused on automation, digital work
 - Developing embedded and interactive prototypes with ESP32 / Arduino / IoT
 - Structuring GitHub into a stronger technical portfolio
 
-- <!-- ## Featured work
+<!-- 
+## Featured work
 - [Project 1](link): one-line result-focused description
 - [Project 2](link): one-line result-focused description
-- [Project 3](link): one-line result-focused description -->
+- [Project 3](link): one-line result-focused description 
+->
