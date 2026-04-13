@@ -1,39 +1,37 @@
 # Hi, I'm Luis Larumbe
 
-Architect and project manager working across architectural design, housing development, technical coordination, and practical digital tools.
+Architect, Project Manager, and Tech Builder focused on automation, frontend workflows, embedded prototyping, and real-world project delivery.
 
-## What I do
-- Architectural design, spatial development, and project coordination for real-world building and housing projects
-- Project management support across design follow-up, technical reviews, documentation, and team coordination
-- Practical Python tools for organization, automation, and workflow improvement
-- Frontend and interface exploration for simple, usable digital tools
-- Interactive prototype development with ESP32, Arduino, and IoT concepts for product, control, and installation ideas
+## Core value
+- Bridge between architecture, project execution, and technology
+- Build practical tools for automation, coordination, and interactive systems
+- Combine spatial thinking, technical documentation, and code-driven problem solving
+- Develop prototypes with Python, frontend tools, and ESP32/Arduino systems
 
-## Technologies and tools
-### Architecture and project work
-- Architectural design — Expert
-- Project management — Expert
-- Technical documentation and coordination — Expert
-
-### Programming and frontend
-- Python — Advanced
+## Technical focus
+- Python — Expert
+- ESP32 / Arduino / IoT — Expert
+- Git & GitHub — Expert
 - HTML — Intermediate
 - CSS — Intermediate
 - JavaScript — Working Knowledge
-- React — Basic
 - C++ — Working Knowledge
+- React — Basic
 
-### Hardware and development tools
-- ESP32 / Arduino / IoT — Expert
-- Git & GitHub — Advanced
+## Professional focus
+- Project management
+- Technical coordination
+- Workflow automation
+- Documentation systems
+- Interface exploration
+- Prototype development
 
 ## Currently
-- Project management in real-world housing development and architectural coordination
-- Improving technical documentation, organization, and presentation workflows
-- Building practical Python tools for automation and workflow improvement
-- Strengthening frontend skills with HTML, CSS, JavaScript, and basic React
-- Developing ESP32, Arduino, and IoT-based prototype systems
-- Structuring GitHub into a cleaner professional portfolio
+- Delivering project management and coordination work in housing development
+- Building Python tools for automation and workflow improvement
+- Expanding frontend capabilities for practical digital interfaces
+- Developing embedded and interactive prototypes with ESP32 / Arduino / IoT
+- Structuring GitHub into a stronger technical portfolio
 
 - <!-- ## Featured work
 - [Project 1](link): one-line result-focused description
