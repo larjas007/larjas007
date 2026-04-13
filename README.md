@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Luis Larumbe
 
-<!--
-**larjas007/larjas007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Architect, project manager, and multidisciplinary builder working across architecture, code, automation, and interactive hardware.
 
-Here are some ideas to get you started:
+## What I do
+- Architectural design and project coordination
+- Python tools and workflow automation
+- ESP32 and interactive prototype development
+- UI concepts for real products and installations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured work
+- [Project 1](link): one-line result-focused description
+- [Project 2](link): one-line result-focused description
+- [Project 3](link): one-line result-focused description
+
+## Tech
+Python, C++, ESP32, Git, GitHub, VS Code, HTML, CSS, JavaScript, React
+
+## Currently
+- Building portfolio-ready repositories
+- Improving documentation and project presentation
+- Publishing practical case-study projects
+
+## Contact
+- LinkedIn: ...
+- Email: ...
