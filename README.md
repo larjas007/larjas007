@@ -20,7 +20,3 @@ Python, C++, ESP32, Git, GitHub, VS Code, HTML, CSS, JavaScript, React
 - Building portfolio-ready repositories
 - Improving documentation and project presentation
 - Publishing practical case-study projects
-
-## Contact
-- [LinkedIn](https://www.linkedin.com/in/luis-larumbe)
-- [Email](mailto:luislarumberojas@gmail.com)
