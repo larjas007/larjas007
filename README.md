@@ -1,6 +1,6 @@
 # Hi, I'm Luis Larumbe
 
-Architect, Project Manager, and Tech Builder focused on automation, frontend workflows, embedded prototyping, and real-world project delivery.
+Architect, Project Manager, and Tech Builder focused on automation, digital workflows, frontend development, embedded prototyping, and real-world project delivery.
 
 ## Core value
 - Bridge between architecture, project execution, and technology
