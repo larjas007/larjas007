@@ -46,8 +46,7 @@ Architect, Project Manager, and Tech Builder focused on automation, digital work
   <strong>Stack:</strong> C++, Python, ESP32, Game Logic, Embedded Systems
 </p>
 
-<p>
-</p>
+<hr>
 
 <h3><a href="https://github.com/TU-USUARIO/autocad-2025-shift-ortho-fix">AutoCAD 2025 Shift-Ortho Fix</a></h3>
 
