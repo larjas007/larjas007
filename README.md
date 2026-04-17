@@ -45,3 +45,14 @@ Architect, Project Manager, and Tech Builder focused on automation, digital work
 <p>
   <strong>Stack:</strong> C++, Python, ESP32, Game Logic, Embedded Systems
 </p>
+
+
+<h3><a href="https://github.com/TU-USUARIO/autocad-2025-shift-ortho-fix">AutoCAD 2025 Shift-Ortho Fix</a></h3>
+
+<p>
+Windows workaround for the AutoCAD 2025 Shift-Ortho issue commonly seen on HP laptops, using a PowerShell script, a VBS launcher, and Task Scheduler automation.
+</p>
+<p>
+  <strong>Stack:</strong>PowerShell, VBS, Windows Task Scheduler, AutoCAD 2025, Windows Automation
+</p>
+
