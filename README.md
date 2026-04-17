@@ -1,59 +1,56 @@
-# Hi, Architect Luis Larumbe here.
+# Hi, I’m Luis Larumbe.
 
-Architect, Project Manager, and Tech Builder focused on automation, digital workflows, frontend development, embedded prototyping, and real-world project delivery.
+Architect, project manager, and technical builder working across automation, digital workflows, frontend interfaces, and embedded systems.
 
-## Core value
-- Bridge between architecture, project execution, and technology
-- Build practical tools for automation, coordination, and interactive systems
-- Combine spatial thinking, technical documentation, and code-driven problem solving
-- Develop prototypes with Python, frontend tools, and ESP32/Arduino systems
+I specialize in turning real operational problems into practical tools, prototypes, and technical workflows.
 
-## Technical focus
-- Python — Expert
-- ESP32 / Arduino / IoT — Expert
-- Git & GitHub — Expert
-- HTML — Intermediate
-- CSS — Intermediate
-- JavaScript — Working Knowledge
-- C++ — Working Knowledge
-- React — Basic
+## What I bring
 
-## Professional focus
-- Project management
-- Technical coordination
+- Cross-disciplinary execution across architecture, coordination, and software
+- Workflow automation for real project environments
+- Frontend and UI thinking grounded in practical use cases
+- Embedded prototyping with ESP32 / Arduino / interactive hardware
+- Strong documentation, systems thinking, and delivery focus
+
+## Technical toolkit
+
+- Python
+- ESP32 / Arduino / IoT
+- HTML / CSS
+- JavaScript
+- C++
+- Git / GitHub
+- React
+
+## Focus areas
+
 - Workflow automation
-- Documentation systems
-- Interface exploration
-- Prototype development
+- Technical coordination
+- Project delivery systems
+- Embedded prototyping
+- Interface development
+- Documentation and process improvement
 
-## Currently
-- Delivering project management and coordination work in housing development
-- Building Python tools for automation and workflow improvement
-- Expanding frontend capabilities for practical digital interfaces
-- Developing embedded and interactive prototypes with ESP32 / Arduino / IoT
-- Structuring GitHub into a stronger technical portfolio
+## Selected work
 
+### [ESP32 LED Boss Fight](https://github.com/larjas007/esp32-led-boss-fight)
 
-## Featured work
-<h3><a href="https://github.com/larjas007/esp32-led-boss-fight">ESP32 LED Boss Fight</a></h3>
+Embedded game prototype developed first in Python and then implemented on ESP32 with WS2812B LEDs, button input, collision logic, and sound feedback.
 
-<p>
-  Embedded game system prototyped in Python and implemented on ESP32 using
-  WS2812B LEDs, button input, collision logic, and event-driven audio.
-</p>
+**What it shows:** embedded logic design, hardware/software integration, iterative prototyping, and game-state architecture.
 
-<p>
-  <strong>Stack:</strong> C++, Python, ESP32, Game Logic, Embedded Systems
-</p>
+**Stack:** C++, Python, ESP32, WS2812B, embedded systems
 
 <br>
 
-<h3><a href="https://github.com/TU-USUARIO/autocad-2025-shift-ortho-fix">AutoCAD 2025 Shift-Ortho Fix</a></h3>
+### [AutoCAD 2025 Shift-Ortho Fix](https://github.com/larjas007/autocad-2025-shift-ortho-fix)
 
-<p>
-Windows workaround for the AutoCAD 2025 Shift-Ortho issue commonly seen on HP laptops, using a PowerShell script, a VBS launcher, and Task Scheduler automation.
-</p>
-<p>
-  <strong>Stack:</strong>PowerShell, VBS, Windows Task Scheduler, AutoCAD 2025, Windows Automation
-</p>
+Windows automation workaround for an AutoCAD 2025 Shift-Ortho issue observed on HP laptops, built with PowerShell, VBScript, and Task Scheduler.
 
+**What it shows:** practical debugging, Windows scripting, automation thinking, and solving a real user-side CAD workflow problem.
+
+**Stack:** PowerShell, VBScript, Windows Task Scheduler, AutoCAD 2025, Windows automation
+
+## Current direction
+
+I’m building a portfolio around practical tools, interactive prototypes, and technical workflows that connect design, operations, and software.
