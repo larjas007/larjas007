@@ -35,29 +35,13 @@ Architect, Project Manager, and Tech Builder focused on automation, digital work
 
 
 ## Featured work
-<section class="project-card">
-  <div class="project-image placeholder">ESP32 LED Boss Fight</div>
+<h3><a href="https://github.com/larjas007/esp32-led-boss-fight">ESP32 LED Boss Fight</a></h3>
 
-  <div class="project-content">
-    <h3>ESP32 LED Boss Fight</h3>
+<p>
+  Embedded game system prototyped in Python and implemented on ESP32 using
+  WS2812B LEDs, button input, collision logic, and event-driven audio.
+</p>
 
-    <p>
-      Embedded game system prototyped in Python and implemented on ESP32 using
-      WS2812B LEDs, button input, collision logic, and event-driven audio.
-    </p>
-
-    <div class="project-tags">
-      <span>C++</span>
-      <span>Python</span>
-      <span>ESP32</span>
-      <span>Game Logic</span>
-      <span>Embedded Systems</span>
-    </div>
-
-    <div class="project-links">
-      <a href="https://github.com/larjas007/esp32-led-boss-fight" target="_blank" rel="noopener noreferrer">
-        View Repository
-      </a>
-    </div>
-  </div>
-</section>
+<p>
+  <strong>Stack:</strong> C++, Python, ESP32, Game Logic, Embedded Systems
+</p>
