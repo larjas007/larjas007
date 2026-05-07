@@ -1,4 +1,4 @@
-# Hi, I’m Architect Luis Larumbe.
+# Hi, I’m Luis Larumbe.
 
 Architect, project manager, and technical builder working across automation, digital workflows, frontend interfaces, and embedded systems.
 
